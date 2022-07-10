@@ -1,0 +1,14 @@
+1)Searching Algo
+  1) Linear Search
+  2) Divide and conqurer
+  3) Sliding Window
+  4) Binary Search
+
+2)Sorting Algo
+  1)Bubble Sort //Practice Done//Logic Done
+  2)Selection Sort //Logic Done//Practice Baaki hai
+  3)
+
+
+
+3)Recursion //Logic done //Practice more questions needed
